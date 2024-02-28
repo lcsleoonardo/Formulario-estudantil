@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-image: url(./imagens/Carta-harry-magicine.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1, h2 {
+
+    color: white;
+
+}
+
+form label {
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form {
+
+    margin-top: 5%;
+}
+
+form input {
+
+    border-radius: 20px;
+}
+
+.botoes :hover {
+    color: antiquewhite;
+    background-color: black;
+    transition: 1s;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+select {
+    border-radius: 20px;
+}
